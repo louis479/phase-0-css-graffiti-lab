@@ -1,1 +1,41 @@
 /* write your override styles here */
+body {
+    background: black;
+  }
+  
+  #wall {
+    -moz-box-shadow: none;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    border: none; 
+  }
+  
+  .tag-1 {
+    display: none;
+  }
+  
+  #tag-2 {
+    background: red;
+  }
+  
+  #tag-3.slick {
+    background: none;
+  }
+  
+  #tag-4 {
+    top: 50px;
+    left: 50px;
+  }
+  
+  #tag-5 {
+    display: none;
+  }
+  
+  #tag-6 {
+    background: none;
+  }
+  
+  #tag-7 {
+    background: blue;
+  }
+  
